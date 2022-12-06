@@ -1,0 +1,13 @@
+.icon {
+  font-size: 16px;
+}
+
+.header-box {
+  height: 60px;
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+}
+.border-b {
+  border-bottom: 1px solid #515151;
+}
